@@ -1,4 +1,4 @@
-(![MasterHead](https://github.com/user-attachments/assets/bd41ea59-932b-41cd-819b-a8f9f58e1a32))
+![MasterHead](https://github.com/user-attachments/assets/bd41ea59-932b-41cd-819b-a8f9f58e1a32)
 <h1 align="center">Hi 👋, I'm Ishan Aryan</h1>
 <h3 align="center">A passionate MERN stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
