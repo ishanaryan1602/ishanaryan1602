@@ -43,7 +43,8 @@ const ishan = {
         "React",
         "Next.js",
         "Tailwind CSS",
-        "Shadcn UI"
+        "Shadcn UI",
+        "Gsap"
     ],
 
     backend: [
@@ -62,15 +63,11 @@ const ishan = {
     devOps: [
         "Docker",
         "Nginx",
-        "Cloudflare",
-        "AWS",
-        "Linux"
     ],
 
     currentlyBuilding: [
         "Enterprise HRMS",
         "Workout Tracker",
-        "Personal Projects"
     ],
 
     aiWorkflow: [
