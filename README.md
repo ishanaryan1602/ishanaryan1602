@@ -1,32 +1,193 @@
-![MasterHead](https://github.com/user-attachments/assets/bd41ea59-932b-41cd-819b-a8f9f58e1a32)
-<h1 align="center">Hi 👋, I'm Ishan Aryan</h1>
-<h3 align="center">A passionate MERN stack developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanaryan1602&label=Profile%20views&color=0e75b6&style=flat" alt="ishanaryan1602" /> </p>
+# Hi 👋 I'm Ishan Aryan
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### Full Stack Software Engineer • Next.js • Node.js • PostgreSQL • AI-first Development
 
-- 🔭 I’m currently working on **Threads Clone** 
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=3FB950&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Building+Scalable+Web+Applications;AI+Powered+Development;Next.js+%7C+Node.js+%7C+TypeScript;Always+Learning+Something+New" />
 
-- 💬 Ask me about **React** , **Node** , **MongoDB** 
+<p>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-- 🌱 I’m currently learning **MERN**
+<a href="mailto:ishanaryan1602@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-- 📫 How to reach me **ishanaryan1602@gmail.com**
+<a href="https://portfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ishan aryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishan aryan" height="20" width="20" /></a>
-<a href="https://instagram.com/ishanaryan___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishanaryan___" height="20" width="20" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=ishanaryan1602&label=Profile+Views&color=3fb950&style=flat-square"/>
 
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishanaryan1602&show_icons=true&locale=en&layout=compact" alt="ishanaryan1602" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishanaryan1602&show_icons=true&locale=en" alt="ishanaryan1602" /></p>
+# 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishanaryan1602&" alt="ishanaryan1602" /></p>
+```ts
+const ishan = {
+    role: "Full Stack Software Engineer",
+
+    code: [
+        "JavaScript",
+        "TypeScript",
+        "SQL"
+    ],
+
+    frontend: [
+        "React",
+        "Next.js",
+        "Tailwind CSS",
+        "Shadcn UI"
+    ],
+
+    backend: [
+        "Node.js",
+        "Express",
+        "Prisma",
+        "REST APIs"
+    ],
+
+    databases: [
+        "PostgreSQL",
+        "MongoDB",
+        "Redis"
+    ],
+
+    devOps: [
+        "Docker",
+        "Nginx",
+        "Cloudflare",
+        "AWS",
+        "Linux"
+    ],
+
+    currentlyBuilding: [
+        "Enterprise HRMS",
+        "Workout Tracker",
+        "Personal Projects"
+    ],
+
+    aiWorkflow: [
+        "Claude",
+        "GPT-5.5",
+        "Gemini",
+        "OpenCode"
+    ]
+}
+```
+
+---
+
+# 🚀 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,aws,cloudflare,git,github" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Scalable Backend Architecture
+- System Design
+- Kubernetes
+- CI/CD
+- Performance Optimization
+- AI-powered Development Workflows
+
+---
+
+# 📌 Current Focus
+
+- 🚀 Building production-ready Full Stack applications
+- ⚡ Optimizing performance and developer experience
+- 🤖 Integrating AI into development workflows
+- 📚 Solving Data Structures & Algorithms
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ishanaryan1602&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanaryan1602&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ishanaryan1602&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ishanaryan1602&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ishanaryan1602&theme=github-compact"/>
+
+---
+
+# 💬 Quote
+
+> *"First make it work, then make it right, then make it fast."*
+
+---
+
+<div align="center">
+
+### Thanks for visiting!
+
+⭐ If you like my work, consider starring my repositories.
+
+</div>
