@@ -119,7 +119,7 @@ const ishan = {
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
+<img src="https://skillicons.dev/icons?i=vscode,postman," />
 </p>
 
 ---
