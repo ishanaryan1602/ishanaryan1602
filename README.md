@@ -113,7 +113,7 @@ const ishan = {
 ### Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,aws,cloudflare,git,github" />
+<img src="https://skillicons.dev/icons?i=docker,nginx,git,github" />
 </p>
 
 ### Tools
